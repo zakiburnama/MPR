@@ -3,7 +3,7 @@
 ### Nim
 ### MPR n
 
-###### Buatlah aplikasi android yang memiliki: 
+#### Buatlah aplikasi android yang memiliki: 
 - Button, 
 - Textview, 
 - EditText.
